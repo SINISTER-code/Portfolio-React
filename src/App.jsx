@@ -1,13 +1,16 @@
+import React from "react";
 import Intro from "./Components/intro/Intro";
-import navbar from "./Components/navbar/navbar";
+import Navbar from "./Components/navbar/Navbar";
+import ParticleBackground from "./ParticleBackground";
 
-const App = () => {
+function App() {
   return (
-    <div>
-      <navbar />
+    <React.Fragment>
+      {/* <ParticleBackground /> */}
+      <Navbar />
       <Intro />
-    </div>
+    </React.Fragment>
   );
-};
+}
 
 export default App;

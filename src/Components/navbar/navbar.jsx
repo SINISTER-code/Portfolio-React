@@ -1,6 +1,6 @@
-import React from "react";
-import "./navbar.css";
-function navbar() {
+import React, { useState } from "react";
+import "./Navbar.css";
+function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
   return (
     <div className="navbar">
@@ -22,4 +22,4 @@ function navbar() {
   );
 }
 
-export default navbar;
+export default Navbar;

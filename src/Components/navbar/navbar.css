@@ -10,6 +10,8 @@
   font-weight: 700;
   font-size: 21px;
   margin: 15px;
+  position: relative;
+  left: 15px;
   color: white;
 }
 .nav-items > a {
@@ -18,6 +20,7 @@
   text-decoration: none;
   margin: 15px;
   position: relative;
+  left: 115%;
   opacity: 0.9;
 }
 .nav-items > a:hover {

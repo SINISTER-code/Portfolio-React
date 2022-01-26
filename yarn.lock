@@ -10968,6 +10968,11 @@
   "resolved" "https://registry.npmjs.org/tslib/-/tslib-2.1.0.tgz"
   "version" "2.1.0"
 
+"tsparticles@^1.39.0":
+  "integrity" "sha512-UeCY5YeUU2j7eyBPwQOAeIK+TeQQkaHNpRCGQ2axdOXEFt6lm3TffgzsLSsFciEn0TrugWhNf+nO1zliWKAYcQ=="
+  "resolved" "https://registry.npmjs.org/tsparticles/-/tsparticles-1.39.0.tgz"
+  "version" "1.39.0"
+
 "tsutils@^3.17.1":
   "integrity" "sha512-RYbuQuvkhuqVeXweWT3tJLKOEJ/UUw9GjNEZGWdrLLlM+611o1gwLHBpxoFJKKl25fLprp2eVthtKs5JOrNeXg=="
   "resolved" "https://registry.npmjs.org/tsutils/-/tsutils-3.20.0.tgz"
