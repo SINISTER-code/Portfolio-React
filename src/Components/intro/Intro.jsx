@@ -11,7 +11,7 @@ function Intro() {
       </div>
       <div className="intro-left">
         <div className="intro-left-wrapper">
-          <h2 className="hello">Hello, my name is </h2>
+          <h2 className="hello">Hellew, my name is </h2>
           <h1 className="name">Swapnil</h1>
           <div className="intro-title">
             <div className="intro-wrapper">
@@ -23,10 +23,9 @@ function Intro() {
             </div>
           </div>
           <div className="intro-discription">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad sint qui
-            maxime. Consectetur labore dolore ex sit, ipsam aut quae fugiat
-            adipisci, nobis obcaecati nesciunt est numquam rerum alias
-            perferendis.
+            I am a student at Thapar Institue of Engineering and Technology. I
+            am a self-taught developer and designer. I am a passionate about
+            learning new things and creating things.
           </div>
         </div>
       </div>

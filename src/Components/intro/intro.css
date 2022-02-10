@@ -67,17 +67,7 @@
 }
 .intro-background {
   /* clip-path: circle(50.1% at 50% 50%); */
-  clip-path: polygon(
-    49% 2%,
-    74% 14%,
-    90% 45%,
-    82% 75%,
-    61% 92%,
-    42% 100%,
-    0 100%,
-    0 51%,
-    0 0
-  );
+  clip-path: polygon(0 0.8%, 42% 0.8%, 100% 100%, 0% 100%);
 
   background-color: crimson;
   width: 100%;
@@ -85,4 +75,7 @@
   position: absolute;
   top: 0;
   left: 0;
+}
+.intro-discription {
+  font-weight: 400;
 }
